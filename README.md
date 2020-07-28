@@ -14,4 +14,4 @@ Phần này mình sử dụng mình sử dụng 2 loại model là machine learn
 
 4. Feature important
 
-Sau khi train các model thì LogisticRegression + Bag of word cho kết quả tốt nhất. Mình sử dụng hệ số của mô hình này để tìm feature. Vì các feature có cùng scale nên hệ số càng cao thì feature càng quan trọng
+Sau khi train các model thì LogisticRegression + Bag of word cho kết quả tốt nhất. Mình sử dụng hệ số của mô hình này để tìm các feature quan trọng. Vì các feature có cùng scale nên hệ số càng cao thì feature càng quan trọng
